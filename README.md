@@ -1,6 +1,6 @@
-# flutter_auth2
+# Flutter CRUD
 
-A new Flutter project.
+Firebase Authentication with Cloud Firestore.
 
 ## Getting Started
 
